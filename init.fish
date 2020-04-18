@@ -60,6 +60,7 @@ __git.plugin_abbr glgg       git log --graph --max-count=10
 __git.plugin_abbr glgga      git log --graph --decorate --all
 __git.plugin_abbr glo        git log --oneline --decorate --color
 __git.plugin_abbr glog       git log --oneline --decorate --color --graph
+__git.plugin_abbr gloga      git log --oneline --decorate --color --graph --all
 __git.plugin_abbr glom       git log --oneline --decorate --color master..
 __git.plugin_abbr glod       git log --oneline --decorate --color develop..
 __git.plugin_abbr gloo       "git log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s' --date=short"
